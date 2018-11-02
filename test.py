@@ -2,7 +2,6 @@ import rect
 
 
 def main():
-    import pdb; pdb.set_trace()
     print('START')
     # print(dir(rect))
     rec = rect.PyRectangle(1, 2, 3, 4)
